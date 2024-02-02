@@ -1,0 +1,42 @@
+/* Gaya umum */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background-color: #f0f0f0;
+  }
+  
+  /* Gaya header */
+  .header {
+    padding: 20px;
+    text-align: center;
+    background-color: #1abc9c;
+    color: white;
+  }
+  
+  /* Gaya gambar John Green */
+  .gambar {
+    width: 300px;
+    height: 400px;
+    object-fit: cover;
+    margin: 20px;
+  }
+  
+  /* Gaya teks tentang John Green */
+  .teks {
+    margin: 20px;
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
+  /* Gaya daftar buku */
+  .buku {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  /* Gaya judul buku */
+  .buku li {
+    font-weight: bold;
+    margin: 10px 0;
+  }
+  
